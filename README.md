@@ -38,3 +38,24 @@ An end-to-end Computer Vision pipeline built with TensorFlow/Keras to classify h
 ├── app.py                 # Interactive Web Dashboard (Streamlit / Folium)
 ├── requirements.txt       # Project dependencies
 └── README.md              # Project documentation
+
+## 🚀 How to Run locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/majdyassar435-oss/Satellite-Damage-Classification-CNN.git
+   cd Satellite-Damage-Classification-CNN
+   ```
+2. Install debendencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the interactive APP:
+   ```bash
+   streamlit run app.py
+   ```
+    
+ ## 📜 License
+ 
+​Distributed under the MIT License. See `LICENSE` for more information.
+   
